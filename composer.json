@@ -11,6 +11,7 @@
         }
     ],
     "homepage": "http://aws.amazon.com/sdkforphp/",
+    "minimum-stability": "dev",
     "require":{
         "php":">=5.2.0"
     },
